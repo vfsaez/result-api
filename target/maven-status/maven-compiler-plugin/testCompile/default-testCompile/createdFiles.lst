@@ -1,0 +1,8 @@
+com/victorsaez/resultapi/controllers/CourseControllerTest.class
+com/victorsaez/resultapi/services/CourseServiceTest.class
+com/victorsaez/resultapi/controllers/UserControllerTest.class
+com/victorsaez/resultapi/controllers/ResultControllerTest.class
+com/victorsaez/resultapi/controllers/StudentControllerTest.class
+com/victorsaez/resultapi/services/ResultServiceTest.class
+com/victorsaez/resultapi/services/StudentServiceTest.class
+com/victorsaez/resultapi/services/UserServiceTest.class
